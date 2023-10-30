@@ -36,6 +36,8 @@ Example:
 
 I highly recommend you to clone my repository or fork it, as it prevents typing errors and makes it easier to follow the steps from here.
 
+You can see a demo of the project by [clicking here](https://next-onnx.vercel.app).
+
 <br/>
 
 ## ⚙ Adapting the project to use your ONNX model
