@@ -9,7 +9,7 @@
 <br />
 
 > [!NOTE]
-> Give a star to the repository because it was quite challenging to find a solution and adapt it to Next.js and to make it more 'relevant' for people who are looking for a solution.
+> Please consider starring⭐ the repository as it was a challenging task to find a solution and adapt it to Next.js 13, making it more useful for those seeking a solution.
 
 ## ⚠ Prerequisites
 
@@ -28,7 +28,7 @@ Example:
 ```
 
 > [!WARNING]
-> It is crucial to use the yolov8n.pt model when training your model, as it will improve project performance, reducing browser crashes on mobile devices (when using the camera to attach an image).
+> It is crucial to use the `yolov8n.pt` model when training your model, as it will improve project performance, reducing browser crashes on mobile devices (when using the camera to attach an image).
 
 <br />
 
